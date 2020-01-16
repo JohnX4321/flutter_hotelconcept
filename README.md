@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![Screenshot](ss/Screenshot_20200116-191411.jpeg)
+
+![SS2](ss/Screenshot_20200116-191416.jpeg)
